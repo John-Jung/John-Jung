@@ -39,7 +39,7 @@
 
 ## 📖 Studying
 
-**WEB, System, Android vulnerability**
+**WEB, System, Android vulnerability, Automotive Security**
 
 ## ✉️ Contact
 <a href="mailto:sungwuk98@gmail.com">sungwuk98@gmail.com</a>
