@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCE5&height=200&text=Sungwuk%20Jung&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F58220&height=200&text=Sungwuk%20Jung&fontSize=50&fontColor=ffffff)
 
 
 
@@ -45,5 +45,5 @@
 <a href="mailto:sungwuk98@gmail.com">sungwuk98@gmail.com</a>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCCE5&height=150&section=footer&text=Thank%20you%!&fontSize=30&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F58220&height=150&section=footer&text=Thank%20you%!&fontSize=30&fontColor=ffffff)
 
