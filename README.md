@@ -37,6 +37,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+## 🪲Bug Bounty
+
+<b>KISA</b>
+<br> Stored XSS
+
 ## 📖 Studying
 
 **WEB, System, Android vulnerability, Automotive Security**
