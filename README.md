@@ -40,7 +40,8 @@
 ## 🪲Bug Bounty
 
 <b>KISA</b>
-<br> Stored XSS
+<br> KVE-2024-2169
+
 
 ## 📖 Studying
 
