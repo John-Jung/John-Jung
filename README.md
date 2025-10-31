@@ -39,6 +39,9 @@
 
 ## 🪲Bug Bounty
 
+<b>Korea Financial Security Institute</b>
+<br> FVE-2025-0023
+
 <b>KISA</b>
 <br> KVE-2024-2169
 
