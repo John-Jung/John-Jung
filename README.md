@@ -42,6 +42,9 @@
 <b>Korea Financial Security Institute</b>
 <br> FVE-2025-0023
 
+<b>FINDtheGAP</b>
+<br>FVE-2025-24b7-73585
+
 <b>KISA</b>
 <br> KVE-2024-2169
 
