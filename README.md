@@ -50,7 +50,7 @@
 <b>KISA</b>
 <br> KVE-2024-2169
 
-## CVE
+## 🔓CVE
 CVE-2026-26903 – TanStack Query Denial of Service
 
 ## 📖 Studying
