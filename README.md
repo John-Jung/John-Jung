@@ -44,10 +44,14 @@
 
 <b>FINDtheGAP</b>
 <br>FVE-2025-24b7-73585
+<br>FVE-2026-24b7-74085
+<br>FVE-2026-24b7-74084
 
 <b>KISA</b>
 <br> KVE-2024-2169
 
+## CVE
+CVE-2026-26903 – TanStack Query Denial of Service
 
 ## 📖 Studying
 
