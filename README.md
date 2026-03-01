@@ -1,65 +1,74 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F58220&height=200&text=Sungwuk%20Jung&fontSize=50&fontColor=ffffff)
+### Hi there 👋
+
+I'm Sungwuk, a Security Researcher with a passion for breaking things to make them safer! 🔐
+I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming** — always hunting for vulnerabilities and pushing security boundaries.
+
+💬 You can find my writing on my [blog](https://velog.io/@wearetheone/posts) and my projects on [GitHub](https://github.com/John-Jung).
+
+---
+
+<h3>🏢 Experience</h3>
+
+| Organization | Period | Role |
+|---|---|---|
+| Korea Information Systems Consulting & Audit Co., Ltd. | 2025.11 ~ Present | Security Researcher — Web/Mobile Penetration Test |
+| BlueTeamK | 2025.06 ~ 2025.09 | Security Consultant — Technical Security Manager |
+| Fin Security | 2024.12 ~ 2025.03 | Penetration Tester — Critical Infrastructure & Financial IT |
+| SK Shieldus Rookies Class of 19 | 2024.02 ~ 2024.08 | Information Security Organization, Blog Excellence Award |
+
+<h3>🐛 CVE & Bug Bounty</h3>
+
+| ID | Category | Target | Vulnerability Type | Issuing Authority |
+|---|---|---|---|---|
+| **CVE-2026-26903** | Web | TanStack Query | Denial of Service | MITRE |
+| **FVE-2026-24b7-74085** | Web | * | Business Logic Bypass | FindtheGAP |
+| **FVE-2026-24b7-74084** | Web | * | Business Logic Bypass | FindtheGAP |
+| **FVE-2025-24b7-73585** | Web | * | Information Disclosure | FindtheGAP |
+| **FVE-2025-0023** | Web | * | IDOR | Financial Security Institute |
+| **KVE-2024-2169** | Web | * | Stored XSS | Korea Internet & Security Agency |
+<h3>📃 Projects</h3>
+
+| Period | Description |
+|---|---|
+| 2026.01.09 ~ 2026.01.20| [RootRoot](https://github.com/John-Jung/RootRoot) — Develop Android Rooted Device Detection Application |
+| 2024.12 ~ 2025.01 | [Critical Vulnerability Implementation](https://github.com/John-Jung/Vulnerable_DashBoard) — File Upload, Path Traversal, Auth Bypass, XSS, CSRF, SQLi |
+| 2024.11.11 ~ 2024.11.22 | [Mobile Bypass](https://github.com/John-Jung/Android-Rooting-Bypass-by-hooking-Method) — Root Detection Bypass, FLAG_SECURE Bypass, PIN Login Bypass via Frida |
+| 2024.06 ~ 2024.08 | [Cloud Based Financial App Pentest](https://github.com/John-Jung/NoName-Securities) — Asset Hijacking, Cloud Takeover, Mobile Ransomware (PM, 8 members) |
 
 
+<h3>🛠️ Tech Stack</h3>
 
+**Languages**
 
-## 📌 CyberSecurity
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?logo=burp-suite&logoColor=white)
-![WireShark](https://img.shields.io/badge/WireShark-blue?logo=wireshark&logoColor=white)
-![JADX](https://img.shields.io/badge/JADX-lightgrey?logoColor=white)
-![APK Tool](https://img.shields.io/badge/APK%20Tool-green?logo=android&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-red?logo=python&logoColor=white)
-![MetaSploit](https://img.shields.io/badge/MetaSploit-black?logo=metasploit&logoColor=white)
-![Bandit](https://img.shields.io/badge/Bandit-yellow?logo=python&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-blueviolet?logo=owasp&logoColor=white)
+**Proxy & Network**
 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-12100E?style=for-the-badge&logo=fiddler&logoColor=white)
+![Charles](https://img.shields.io/badge/Charles-F3F3F3?style=for-the-badge&logo=charles&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+**Mobile & Reversing**
 
+![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=hexrays&logoColor=white)
+![JEB](https://img.shields.io/badge/JEB-2C2C2C?style=for-the-badge&logo=android&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![APK Tools](https://img.shields.io/badge/APK_Tools-34A853?style=for-the-badge&logo=android&logoColor=white)
 
-## ⚙️ Tools
+**Exploitation**
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Sliver](https://img.shields.io/badge/Sliver-FF4500?style=for-the-badge&logo=bishopfox&logoColor=white)
+![Chisel](https://img.shields.io/badge/Chisel-333333?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 🪲Bug Bounty
+<h3>🌐 Languages</h3>
 
-<b>Korea Financial Security Institute</b>
-<br> FVE-2025-0023
+English · Chinese · Korean
 
-<b>FINDtheGAP</b>
-<br>FVE-2025-24b7-73585
-<br>FVE-2026-24b7-74085
-<br>FVE-2026-24b7-74084
+---
 
-<b>KISA</b>
-<br> KVE-2024-2169
-
-## 🔓CVE
-CVE-2026-26903 – TanStack Query Denial of Service
-
-## 📖 Studying
-
-**WEB, System, Android vulnerability, Automotive Security**
-
-## ✉️ Contact
-<a href="mailto:sungwuk98@gmail.com">sungwuk98@gmail.com</a>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=F58220&height=150&section=footer&text=Thank%20you%!&fontSize=30&fontColor=ffffff)
-
+📫 Reach me at **sungwuk98@gmail.com**
