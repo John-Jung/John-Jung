@@ -31,6 +31,7 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 | Period | Description |
 |---|---|
 | 2026.01.09 ~ 2026.01.20| [RootRoot](https://github.com/John-Jung/RootRoot) — Develop Android Rooted Device Detection Application |
+| 2025.11.05 ~ 2025.11.22| [Clicktomate](https://github.com/John-Jung/Clicktomate) — Develop Chrome Extension that autmates click |
 | 2024.12 ~ 2025.01 | [Critical Vulnerability Implementation](https://github.com/John-Jung/Vulnerable_DashBoard) — File Upload, Path Traversal, Auth Bypass, XSS, CSRF, SQLi |
 | 2024.11.11 ~ 2024.11.22 | [Mobile Bypass](https://github.com/John-Jung/Android-Rooting-Bypass-by-hooking-Method) — Root Detection Bypass, FLAG_SECURE Bypass, PIN Login Bypass via Frida |
 | 2024.06 ~ 2024.08 | [Cloud Based Financial App Pentest](https://github.com/John-Jung/NoName-Securities) — Asset Hijacking, Cloud Takeover, Mobile Ransomware (PM, 8 members) |
@@ -42,6 +43,7 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Proxy & Network**
