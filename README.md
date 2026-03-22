@@ -32,7 +32,7 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 
 | Period | Description |
 |---|---|
-| 2026.01.09 ~ 2026.01.20| [RootRoot](https://github.com/John-Jung/RootRoot) — Develop Android Rooted Device Detection Application |
+| 2026.01.09 ~ 2026.01.20| [RootRoot]([https://github.com/John-Jung/RootRoot](https://play.google.com/store/apps/details?id=io.github.johnjung.rootroot&hl=ko)) — Develop Android Rooted Device Detection Application |
 | 2025.11.05 ~ 2025.11.22| [Clicktomate](https://chromewebstore.google.com/detail/clicktomate/bonfeekicpogljaikbidmmhhjnocfhgi) — Develop and deploy Chrome Extension that autmates click |
 | 2024.12 ~ 2025.01 | [Critical Vulnerability Implementation](https://github.com/John-Jung/Vulnerable_DashBoard) — File Upload, Path Traversal, Auth Bypass, XSS, CSRF, SQLi |
 | 2024.11.11 ~ 2024.11.22 | [Mobile Bypass](https://github.com/John-Jung/Android-Rooting-Bypass-by-hooking-Method) — Root Detection Bypass, FLAG_SECURE Bypass, PIN Login Bypass via Frida |
