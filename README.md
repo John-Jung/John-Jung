@@ -20,7 +20,7 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 
 | ID | Category | Target | Vulnerability Type | Issuing Authority |
 |---|---|---|---|---|
-| **CVE-2026-25604** | workflow orchestration platform | Apache Airflow | [SAML Authentication Bypass](https://www.cve.org/CVERecord?id=CVE-2026-25604) | MITRE |
+| **CVE-2026-25604** | workflow orchestration platform | Apache Airflow | [Host Header Injection](https://www.cve.org/CVERecord?id=CVE-2026-25604) | MITRE |
 | **CVE-2026-26903** | JavaScript State Management Library | TanStack Query | [Denial of Service](https://vulmon.com/vulnerabilitydetails?qid=CVE-2026-26903) | MITRE |
 | **FVE-2026-24b7-74085** | Web | * | Business Logic Bypass | FindtheGAP |
 | **FVE-2026-24b7-74084** | Web | * | Business Logic Bypass | FindtheGAP |
