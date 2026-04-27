@@ -32,6 +32,7 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 
 | Period | Description |
 |---|---|
+| 2026.01.01 ~ 2026.01.31| [CVE Hunter](https://github.com/John-Jung/CVE-Hunter) —AI-CVE-Scanner with AI API |
 | 2026.01.09 ~ 2026.01.20| [RootRoot](https://play.google.com/store/apps/details?id=io.github.johnjung.rootroot&hl=ko) — Develop Android Rooted Device Detection Application |
 | 2025.11.05 ~ 2025.11.22| [Clicktomate](https://chromewebstore.google.com/detail/clicktomate/bonfeekicpogljaikbidmmhhjnocfhgi) — Develop and deploy Chrome Extension that autmates click |
 | 2024.12 ~ 2025.01 | [Critical Vulnerability Implementation](https://github.com/John-Jung/Vulnerable_DashBoard) — File Upload, Path Traversal, Auth Bypass, XSS, CSRF, SQLi |
