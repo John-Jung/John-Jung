@@ -11,7 +11,8 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 
 | Organization | Period | Role |
 |---|---|---|
-| Korea Information Systems Consulting & Audit Co., Ltd. | 2025.11 ~ Present | Security Researcher — Web/Mobile Penetration Test |
+| Stealien | 2026.05 ~ Present | Security Consultant — Web/Mobile Penetration Test |
+| Korea Information Systems Consulting & Audit Co., Ltd. | 2025.11 ~ 2026.05 | Security Researcher — Web/Mobile Penetration Test |
 | BlueTeamK | 2025.06 ~ 2025.09 | Security Consultant — Technical Security Manager |
 | Fin Security | 2024.12 ~ 2025.03 | Penetration Tester — Critical Infrastructure & Financial IT |
 | SK Shieldus Rookies Class of 19 | 2024.02 ~ 2024.08 | Information Security Organization, Blog Excellence Award |
