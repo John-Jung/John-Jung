@@ -27,6 +27,8 @@ I'm currently focusing on **Web/Mobile Penetration Testing** and **Red Teaming**
 | **FVE-2026-24b7-74084** | Web | * | Business Logic Bypass | FindtheGAP |
 | **FVE-2025-24b7-73585** | Web | * | Information Disclosure | FindtheGAP |
 | **FVE-2025-0023** | Web | * | IDOR | Financial Security Institute |
+| **KVE-2026-0269** | Web | * | Email Spoofing Attack | Korea Internet & Security Agency |
+| **KVE-2025-2831** | Web | * | Business Logic Bypass | Korea Internet & Security Agency |
 | **KVE-2025-2839** | Web | * | Business Logic Bypass | Korea Internet & Security Agency |
 | **KVE-2024-2169** | Web | * | Stored XSS | Korea Internet & Security Agency |
 <h3>📃 Projects</h3>
